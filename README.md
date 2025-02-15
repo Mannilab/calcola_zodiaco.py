@@ -1,6 +1,5 @@
 # calcola_zodiaco.py
 
-
 Semplice script in Python per calcolare segno zodiacale ed ascendente in base alla propria data ed alla ora di nasvit - da inserire in progetti più elaborati. Oltre a quesze informazioni, viene chiesto anche, ai fini dell'ascendente, l'Utc. L'UTC (Coordinated Universal Time) è il fuso orario di riferimento da cui vengono calcolati tutti gli altri fusi orari del mondo. Per il calcolo dell'ascendente in astrologia, l'UTC è fondamentale perché:
 
 1. L'orario di nascita deve essere convertito in UTC
